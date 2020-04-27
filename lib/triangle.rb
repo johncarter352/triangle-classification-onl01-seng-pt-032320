@@ -7,7 +7,9 @@ class Triangle
    @s3 = s3
 end
 
-def type
+  def type
+    if 
+
 
 end 
 
