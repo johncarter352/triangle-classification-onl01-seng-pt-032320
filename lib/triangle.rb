@@ -5,4 +5,3 @@ end
 class TraingleError < StandardError
   #code 
 end
-end
