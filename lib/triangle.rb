@@ -21,8 +21,7 @@ end
         :scalene
       end
     end
-
-
+    
 end 
 
 class TraingleError < StandardError
